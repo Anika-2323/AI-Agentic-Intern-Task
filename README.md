@@ -1,8 +1,11 @@
-# 🤖 AI Support Ticket Classifier
+# AI Support Ticket Classifier
+
+##LIVE DEMO
+https://ai-agentic-intern-task-ftqzcmcbnkxrs7aswremyn.streamlit.app/
 
 This project classifies customer support messages into categories and assigns priority using Gemini API.
 
-## 🚀 Features
+## Features
 - Classifies messages into:
   - Billing
   - Technical Issue
@@ -13,12 +16,7 @@ This project classifies customer support messages into categories and assigns pr
 - Supports multiple messages
 - Streamlit UI
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - Google Gemini API
-
-## ▶️ Run locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
